@@ -1,4 +1,4 @@
 # Astatine-fitness-demo
 This is my GitHub Repository.
 <br>
-Author - ARYAN SHUKLA
+Author - ARYAN SHUKLA (Astatine)
